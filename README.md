@@ -1,5 +1,4 @@
-# SQL-project
-Student Course Management Database
+# Student Course Management Database
 CREATE DATABASE StudentCourseManagement;
 USE StudentCourseManagement;
 
